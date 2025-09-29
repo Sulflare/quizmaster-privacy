@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Mentions légales – QuizMaster</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      line-height: 1.6;
+      color: #333;
+      background-color: #f9f9f9;
+    }
+    h1 {
+      text-align: center;
+      color: #111;
+    }
+    h2 {
+      margin-top: 20px;
+      color: #222;
+    }
+    p {
+      margin: 8px 0;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background: #fff;
+      padding: 25px;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Mentions légales – QuizMaster</h1>
+
+    <h2>Projet fan non officiel</h2>
+    <p>
+      QuizMaster est une application créée par des passionnés de jeux vidéo.
+      Elle n’est <strong>pas affiliée, soutenue ni approuvée</strong> par les éditeurs,
+      développeurs ou ayants droit des jeux mentionnés.
+    </p>
+
+    <h2>Marques et droits d’auteur</h2>
+    <p>
+      Tous les noms de jeux, personnages, marques, logos, visuels et citations
+      appartiennent à leurs <strong>propriétaires respectifs</strong>. Leur utilisation
+      dans QuizMaster est uniquement à des fins <em>informatives et ludiques</em>
+      dans le cadre d’un quiz culturel.
+    </p>
+
+    <h2>Contenus originaux</h2>
+    <p>
+      Les questions, formulations et visuels de QuizMaster sont créés spécifiquement
+      pour l’application, sauf mention contraire. Toute ressemblance avec des supports
+      officiels est fortuite.
+    </p>
+
+    <h2>Limitation de responsabilité</h2>
+    <p>
+      Les créateurs de QuizMaster ne revendiquent aucun droit sur les licences évoquées.
+      Si un ayant droit souhaite la modification ou la suppression d’un contenu,
+      il peut nous contacter et nous procéderons aux ajustements nécessaires.
+    </p>
+  </div>
+</body>
+</html>
